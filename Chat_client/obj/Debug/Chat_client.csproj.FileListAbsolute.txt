@@ -1,0 +1,11 @@
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_client\bin\Debug\Chat_client.exe.config
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_client\obj\Debug\Chat_client.csprojResolveAssemblyReference.cache
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_client\obj\Debug\Chat_client.Form1.resources
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_client\obj\Debug\Chat_client.Properties.Resources.resources
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_client\obj\Debug\Chat_client.csproj.GenerateResource.Cache
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_client\bin\Debug\Chat_client.exe
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_client\bin\Debug\Chat_client.pdb
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_client\obj\Debug\Chat_client.exe
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_client\obj\Debug\Chat_client.pdb
+C:\Users\romch_000\documents\visual studio 2012\Projects\Chat_client\obj\Debug\Chat_client.LoginForm.resources
+C:\Users\romch_000\documents\visual studio 2012\Projects\Chat_client\obj\Debug\Chat_client.Register.resources

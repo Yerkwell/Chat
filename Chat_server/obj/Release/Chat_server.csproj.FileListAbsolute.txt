@@ -1,0 +1,12 @@
+C:\Users\romch_000\documents\visual studio 2012\Projects\Chat_server\bin\Release\Chat_server.exe.config
+C:\Users\romch_000\documents\visual studio 2012\Projects\Chat_server\bin\Release\Chat_server.exe
+C:\Users\romch_000\documents\visual studio 2012\Projects\Chat_server\bin\Release\Chat_server.pdb
+C:\Users\romch_000\documents\visual studio 2012\Projects\Chat_server\obj\Release\Chat_server.csprojResolveAssemblyReference.cache
+C:\Users\romch_000\documents\visual studio 2012\Projects\Chat_server\obj\Release\Chat_server.exe
+C:\Users\romch_000\documents\visual studio 2012\Projects\Chat_server\obj\Release\Chat_server.pdb
+c:\Users\romch_000\Documents\Visual Studio 2013\Projects_2012\Chat_server\bin\Release\Chat_server.exe.config
+c:\Users\romch_000\Documents\Visual Studio 2013\Projects_2012\Chat_server\obj\Release\Chat_server.exe
+c:\Users\romch_000\Documents\Visual Studio 2013\Projects_2012\Chat_server\obj\Release\Chat_server.pdb
+c:\Users\romch_000\Documents\Visual Studio 2013\Projects_2012\Chat_server\bin\Release\Chat_server.exe
+c:\Users\romch_000\Documents\Visual Studio 2013\Projects_2012\Chat_server\bin\Release\Chat_server.pdb
+c:\Users\romch_000\Documents\Visual Studio 2013\Projects_2012\Chat_server\obj\Release\Chat_server.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_server\bin\Debug\Chat_server.exe.config
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_server\bin\Debug\Chat_server.exe
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_server\bin\Debug\Chat_server.pdb
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_server\obj\Debug\Chat_server.csprojResolveAssemblyReference.cache
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_server\obj\Debug\Chat_server.exe
+c:\users\romch_000\documents\visual studio 2012\Projects\Chat_server\obj\Debug\Chat_server.pdb
